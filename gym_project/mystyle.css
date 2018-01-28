@@ -1,0 +1,33 @@
+body{
+    background:url(images/pexels-photo.jpg) no-repeat center center fixed;
+    
+}
+div{
+    background-color: #1ea076;
+    width:60%;
+    margin:100px auto;
+    text-align:center;
+    border-radius: 25px;
+    opacity:0.5;
+}
+h1
+{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4em;
+}
+button
+{
+    background:rgba(50,50,50,50);
+   color:white;
+    padding:20px;
+    font-size: 2em;
+    border-radius:10px;
+    
+}
+p{
+    font-size:1.8em;
+}
+i
+{
+    font-size:4em;
+}
